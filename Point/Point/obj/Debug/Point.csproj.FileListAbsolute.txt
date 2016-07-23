@@ -1,0 +1,6 @@
+D:\Learn\Lap tring C#\Exercise C#\Point\Point\bin\Debug\Point.exe.config
+D:\Learn\Lap tring C#\Exercise C#\Point\Point\bin\Debug\Point.exe
+D:\Learn\Lap tring C#\Exercise C#\Point\Point\bin\Debug\Point.pdb
+D:\Learn\Lap tring C#\Exercise C#\Point\Point\obj\Debug\Point.exe
+D:\Learn\Lap tring C#\Exercise C#\Point\Point\obj\Debug\Point.pdb
+D:\Learn\Lap tring C#\Exercise C#\Point\Point\obj\Debug\Point.csprojResolveAssemblyReference.cache

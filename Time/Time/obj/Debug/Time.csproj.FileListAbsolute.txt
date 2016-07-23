@@ -1,0 +1,6 @@
+D:\Learn\Lap tring C#\Exercise C#\Time\Time\bin\Debug\Time.exe.config
+D:\Learn\Lap tring C#\Exercise C#\Time\Time\bin\Debug\Time.exe
+D:\Learn\Lap tring C#\Exercise C#\Time\Time\bin\Debug\Time.pdb
+D:\Learn\Lap tring C#\Exercise C#\Time\Time\obj\Debug\Time.csprojResolveAssemblyReference.cache
+D:\Learn\Lap tring C#\Exercise C#\Time\Time\obj\Debug\Time.exe
+D:\Learn\Lap tring C#\Exercise C#\Time\Time\obj\Debug\Time.pdb

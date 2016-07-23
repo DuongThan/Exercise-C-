@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="QuanLyTrangTrai.Animal">
+    <Position X="3.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAABAAAAAAABAAAAAQAAAAEAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Animal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyTrangTrai.Bap" Collapsed="true">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyTrangTrai.BoSua" Collapsed="true">
+    <Position X="6" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BoSua.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyTrangTrai.Cam" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyTrangTrai.Chicken" Collapsed="true">
+    <Position X="1.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Chicken.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyTrangTrai.Cho" Collapsed="true">
+    <Position X="1.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cho.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyTrangTrai.Co" Collapsed="true">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Co.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyTrangTrai.Constant">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QEAAQAABACCAAAAAAUAAAAAAAAAABAAQAIgBgBIAAAA=</HashCode>
+      <FileName>Constant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyTrangTrai.FarmingAnimal">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQIAAAAAAAAABAAAAAAABAAAAAABAAAAAAAAAggAAAA=</HashCode>
+      <FileName>FarmingAnimal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyTrangTrai.FarmingController">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>giAABAGAgACDAEBKAAAAAAAYAAAoIAUAAAAABTAAACA=</HashCode>
+      <FileName>FarmingController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyTrangTrai.Food">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Food.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyTrangTrai.Heo" Collapsed="true">
+    <Position X="6.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Heo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyTrangTrai.Program">
+    <Position X="12.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyTrangTrai.Thit" Collapsed="true">
+    <Position X="1.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Thit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

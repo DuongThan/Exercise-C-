@@ -1,0 +1,7 @@
+D:\Learn\Lap tring C#\Exercise C#\QuanLy_DangNhap\BUS\bin\Debug\BUS.dll
+D:\Learn\Lap tring C#\Exercise C#\QuanLy_DangNhap\BUS\bin\Debug\BUS.pdb
+D:\Learn\Lap tring C#\Exercise C#\QuanLy_DangNhap\BUS\bin\Debug\DAL.dll
+D:\Learn\Lap tring C#\Exercise C#\QuanLy_DangNhap\BUS\bin\Debug\DAL.pdb
+D:\Learn\Lap tring C#\Exercise C#\QuanLy_DangNhap\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\Learn\Lap tring C#\Exercise C#\QuanLy_DangNhap\BUS\obj\Debug\BUS.dll
+D:\Learn\Lap tring C#\Exercise C#\QuanLy_DangNhap\BUS\obj\Debug\BUS.pdb

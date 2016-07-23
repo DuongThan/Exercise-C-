@@ -1,0 +1,24 @@
+c:\users\ngoxuanduong\documents\visual studio 2015\Projects\QuanLy_DangNhap\QuanLy_DangNhap\bin\Debug\QuanLy_DangNhap.exe.config
+c:\users\ngoxuanduong\documents\visual studio 2015\Projects\QuanLy_DangNhap\QuanLy_DangNhap\bin\Debug\QuanLy_DangNhap.exe
+c:\users\ngoxuanduong\documents\visual studio 2015\Projects\QuanLy_DangNhap\QuanLy_DangNhap\bin\Debug\QuanLy_DangNhap.pdb
+c:\users\ngoxuanduong\documents\visual studio 2015\Projects\QuanLy_DangNhap\QuanLy_DangNhap\obj\Debug\QuanLy_DangNhap.csprojResolveAssemblyReference.cache
+c:\users\ngoxuanduong\documents\visual studio 2015\Projects\QuanLy_DangNhap\QuanLy_DangNhap\obj\Debug\QuanLy_DangNhap.Form1.resources
+c:\users\ngoxuanduong\documents\visual studio 2015\Projects\QuanLy_DangNhap\QuanLy_DangNhap\obj\Debug\QuanLy_DangNhap.Properties.Resources.resources
+c:\users\ngoxuanduong\documents\visual studio 2015\Projects\QuanLy_DangNhap\QuanLy_DangNhap\obj\Debug\QuanLy_DangNhap.csproj.GenerateResource.Cache
+c:\users\ngoxuanduong\documents\visual studio 2015\Projects\QuanLy_DangNhap\QuanLy_DangNhap\obj\Debug\QuanLy_DangNhap.exe
+c:\users\ngoxuanduong\documents\visual studio 2015\Projects\QuanLy_DangNhap\QuanLy_DangNhap\obj\Debug\QuanLy_DangNhap.pdb
+c:\users\ngoxuanduong\documents\visual studio 2015\Projects\QuanLy_DangNhap\QuanLy_DangNhap\obj\Debug\QuanLy_DangNhap.Form2.resources
+D:\Learn\Lap tring C#\Exercise C#\QuanLy_DangNhap\QuanLy_DangNhap\bin\Debug\QuanLy_DangNhap.exe.config
+D:\Learn\Lap tring C#\Exercise C#\QuanLy_DangNhap\QuanLy_DangNhap\obj\Debug\QuanLy_DangNhap.exe
+D:\Learn\Lap tring C#\Exercise C#\QuanLy_DangNhap\QuanLy_DangNhap\obj\Debug\QuanLy_DangNhap.pdb
+D:\Learn\Lap tring C#\Exercise C#\QuanLy_DangNhap\QuanLy_DangNhap\bin\Debug\QuanLy_DangNhap.exe
+D:\Learn\Lap tring C#\Exercise C#\QuanLy_DangNhap\QuanLy_DangNhap\bin\Debug\QuanLy_DangNhap.pdb
+D:\Learn\Lap tring C#\Exercise C#\QuanLy_DangNhap\QuanLy_DangNhap\bin\Debug\BUS.dll
+D:\Learn\Lap tring C#\Exercise C#\QuanLy_DangNhap\QuanLy_DangNhap\bin\Debug\DAL.dll
+D:\Learn\Lap tring C#\Exercise C#\QuanLy_DangNhap\QuanLy_DangNhap\bin\Debug\BUS.pdb
+D:\Learn\Lap tring C#\Exercise C#\QuanLy_DangNhap\QuanLy_DangNhap\bin\Debug\DAL.pdb
+D:\Learn\Lap tring C#\Exercise C#\QuanLy_DangNhap\QuanLy_DangNhap\obj\Debug\QuanLy_DangNhap.csprojResolveAssemblyReference.cache
+D:\Learn\Lap tring C#\Exercise C#\QuanLy_DangNhap\QuanLy_DangNhap\obj\Debug\QuanLy_DangNhap.Form1.resources
+D:\Learn\Lap tring C#\Exercise C#\QuanLy_DangNhap\QuanLy_DangNhap\obj\Debug\QuanLy_DangNhap.Form2.resources
+D:\Learn\Lap tring C#\Exercise C#\QuanLy_DangNhap\QuanLy_DangNhap\obj\Debug\QuanLy_DangNhap.Properties.Resources.resources
+D:\Learn\Lap tring C#\Exercise C#\QuanLy_DangNhap\QuanLy_DangNhap\obj\Debug\QuanLy_DangNhap.csproj.GenerateResource.Cache

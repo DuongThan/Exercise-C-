@@ -1,0 +1,5 @@
+D:\Learn\Lap tring C#\Exercise C#\Nạp chồng toán tử\NapChong\NapChong\bin\Debug\NapChong.exe.config
+D:\Learn\Lap tring C#\Exercise C#\Nạp chồng toán tử\NapChong\NapChong\bin\Debug\NapChong.exe
+D:\Learn\Lap tring C#\Exercise C#\Nạp chồng toán tử\NapChong\NapChong\bin\Debug\NapChong.pdb
+D:\Learn\Lap tring C#\Exercise C#\Nạp chồng toán tử\NapChong\NapChong\obj\Debug\NapChong.exe
+D:\Learn\Lap tring C#\Exercise C#\Nạp chồng toán tử\NapChong\NapChong\obj\Debug\NapChong.pdb

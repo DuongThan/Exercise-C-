@@ -1,0 +1,6 @@
+D:\Learn\Lap tring C#\Exercise C#\ChayChu\ChayChu\bin\Debug\ChayChu.exe.config
+D:\Learn\Lap tring C#\Exercise C#\ChayChu\ChayChu\bin\Debug\ChayChu.exe
+D:\Learn\Lap tring C#\Exercise C#\ChayChu\ChayChu\bin\Debug\ChayChu.pdb
+D:\Learn\Lap tring C#\Exercise C#\ChayChu\ChayChu\obj\Debug\ChayChu.csprojResolveAssemblyReference.cache
+D:\Learn\Lap tring C#\Exercise C#\ChayChu\ChayChu\obj\Debug\ChayChu.exe
+D:\Learn\Lap tring C#\Exercise C#\ChayChu\ChayChu\obj\Debug\ChayChu.pdb
