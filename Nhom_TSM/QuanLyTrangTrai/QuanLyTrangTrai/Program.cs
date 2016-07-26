@@ -10,6 +10,12 @@ namespace QuanLyTrangTrai
     {
         static void Main(string[] args)
         {
+            QuanLyTrangTrai quanLy = new QuanLyTrangTrai();
+            while(true)
+            {
+                quanLy.MenuMain();
+                Console.ReadLine();
+            }
         }
     }
 }

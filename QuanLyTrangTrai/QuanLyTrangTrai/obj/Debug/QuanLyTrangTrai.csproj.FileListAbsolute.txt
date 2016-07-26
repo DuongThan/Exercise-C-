@@ -4,3 +4,6 @@ D:\Learn\Lap tring C#\Exercise C#\QuanLyTrangTrai\QuanLyTrangTrai\bin\Debug\Quan
 D:\Learn\Lap tring C#\Exercise C#\QuanLyTrangTrai\QuanLyTrangTrai\obj\Debug\QuanLyTrangTrai.csprojResolveAssemblyReference.cache
 D:\Learn\Lap tring C#\Exercise C#\QuanLyTrangTrai\QuanLyTrangTrai\obj\Debug\QuanLyTrangTrai.exe
 D:\Learn\Lap tring C#\Exercise C#\QuanLyTrangTrai\QuanLyTrangTrai\obj\Debug\QuanLyTrangTrai.pdb
+D:\Learn\Lap tring C#\Exercise C#\Exercise-C-\QuanLyTrangTrai\QuanLyTrangTrai\bin\Debug\QuanLyTrangTrai.exe.config
+D:\Learn\Lap tring C#\Exercise C#\Exercise-C-\QuanLyTrangTrai\QuanLyTrangTrai\obj\Debug\QuanLyTrangTrai.exe
+D:\Learn\Lap tring C#\Exercise C#\Exercise-C-\QuanLyTrangTrai\QuanLyTrangTrai\obj\Debug\QuanLyTrangTrai.pdb

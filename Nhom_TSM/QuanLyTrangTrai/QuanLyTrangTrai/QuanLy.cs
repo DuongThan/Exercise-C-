@@ -28,5 +28,19 @@ namespace QuanLyTrangTrai
             list_DongVat = new List<DongVat>();
         }
 
+        public void ThemMoi(DongVat dongVat)
+        {
+            list_DongVat.Add(dongVat);
+        }
+
+        public void Ban(DongVat dongVat)
+        {
+            list_DongVat.Remove(dongVat);
+        }
+        public int soluong()
+        {
+            return list_DongVat.Count();
+        }
+
     }
 }
