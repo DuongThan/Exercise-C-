@@ -76,6 +76,7 @@ namespace QLSV
         }
         static void Main(string[] args)
         {
+            Console.WriteLine(args[0]);
             string s;
             while(true)
             {
@@ -100,6 +101,9 @@ namespace QLSV
                     case "4":
                         ThongTinSV();
                         break;
+
+                    default:
+                        return;
                 }
                 Console.ReadLine();
             }

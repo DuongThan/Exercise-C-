@@ -4,3 +4,9 @@ D:\Learn\Lap tring C#\Exercise C#\QuanLy_DangNhap\DAL\bin\Debug\DAL.pdb
 D:\Learn\Lap tring C#\Exercise C#\QuanLy_DangNhap\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 D:\Learn\Lap tring C#\Exercise C#\QuanLy_DangNhap\DAL\obj\Debug\DAL.dll
 D:\Learn\Lap tring C#\Exercise C#\QuanLy_DangNhap\DAL\obj\Debug\DAL.pdb
+D:\Learn\Lap tring C#\Exercise C#\Exercise-C-\QuanLy_DangNhap\DAL\bin\Debug\DAL.dll.config
+D:\Learn\Lap tring C#\Exercise C#\Exercise-C-\QuanLy_DangNhap\DAL\bin\Debug\DAL.dll
+D:\Learn\Lap tring C#\Exercise C#\Exercise-C-\QuanLy_DangNhap\DAL\bin\Debug\DAL.pdb
+D:\Learn\Lap tring C#\Exercise C#\Exercise-C-\QuanLy_DangNhap\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Learn\Lap tring C#\Exercise C#\Exercise-C-\QuanLy_DangNhap\DAL\obj\Debug\DAL.dll
+D:\Learn\Lap tring C#\Exercise C#\Exercise-C-\QuanLy_DangNhap\DAL\obj\Debug\DAL.pdb

@@ -22,3 +22,17 @@ D:\Learn\Lap tring C#\Exercise C#\QuanLy_DangNhap\QuanLy_DangNhap\obj\Debug\Quan
 D:\Learn\Lap tring C#\Exercise C#\QuanLy_DangNhap\QuanLy_DangNhap\obj\Debug\QuanLy_DangNhap.Form2.resources
 D:\Learn\Lap tring C#\Exercise C#\QuanLy_DangNhap\QuanLy_DangNhap\obj\Debug\QuanLy_DangNhap.Properties.Resources.resources
 D:\Learn\Lap tring C#\Exercise C#\QuanLy_DangNhap\QuanLy_DangNhap\obj\Debug\QuanLy_DangNhap.csproj.GenerateResource.Cache
+D:\Learn\Lap tring C#\Exercise C#\Exercise-C-\QuanLy_DangNhap\QuanLy_DangNhap\bin\Debug\QuanLy_DangNhap.exe.config
+D:\Learn\Lap tring C#\Exercise C#\Exercise-C-\QuanLy_DangNhap\QuanLy_DangNhap\obj\Debug\QuanLy_DangNhap.exe
+D:\Learn\Lap tring C#\Exercise C#\Exercise-C-\QuanLy_DangNhap\QuanLy_DangNhap\obj\Debug\QuanLy_DangNhap.pdb
+D:\Learn\Lap tring C#\Exercise C#\Exercise-C-\QuanLy_DangNhap\QuanLy_DangNhap\bin\Debug\QuanLy_DangNhap.exe
+D:\Learn\Lap tring C#\Exercise C#\Exercise-C-\QuanLy_DangNhap\QuanLy_DangNhap\bin\Debug\QuanLy_DangNhap.pdb
+D:\Learn\Lap tring C#\Exercise C#\Exercise-C-\QuanLy_DangNhap\QuanLy_DangNhap\bin\Debug\BUS.dll
+D:\Learn\Lap tring C#\Exercise C#\Exercise-C-\QuanLy_DangNhap\QuanLy_DangNhap\bin\Debug\DAL.dll
+D:\Learn\Lap tring C#\Exercise C#\Exercise-C-\QuanLy_DangNhap\QuanLy_DangNhap\bin\Debug\BUS.pdb
+D:\Learn\Lap tring C#\Exercise C#\Exercise-C-\QuanLy_DangNhap\QuanLy_DangNhap\bin\Debug\DAL.pdb
+D:\Learn\Lap tring C#\Exercise C#\Exercise-C-\QuanLy_DangNhap\QuanLy_DangNhap\obj\Debug\QuanLy_DangNhap.csprojResolveAssemblyReference.cache
+D:\Learn\Lap tring C#\Exercise C#\Exercise-C-\QuanLy_DangNhap\QuanLy_DangNhap\obj\Debug\QuanLy_DangNhap.Form1.resources
+D:\Learn\Lap tring C#\Exercise C#\Exercise-C-\QuanLy_DangNhap\QuanLy_DangNhap\obj\Debug\QuanLy_DangNhap.Form2.resources
+D:\Learn\Lap tring C#\Exercise C#\Exercise-C-\QuanLy_DangNhap\QuanLy_DangNhap\obj\Debug\QuanLy_DangNhap.Properties.Resources.resources
+D:\Learn\Lap tring C#\Exercise C#\Exercise-C-\QuanLy_DangNhap\QuanLy_DangNhap\obj\Debug\QuanLy_DangNhap.csproj.GenerateResource.Cache

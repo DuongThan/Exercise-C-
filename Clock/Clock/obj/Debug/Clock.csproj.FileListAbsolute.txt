@@ -4,3 +4,9 @@ D:\Learn\Lap tring C#\Exercise C#\Clock\Clock\bin\Debug\Clock.pdb
 D:\Learn\Lap tring C#\Exercise C#\Clock\Clock\obj\Debug\Clock.csprojResolveAssemblyReference.cache
 D:\Learn\Lap tring C#\Exercise C#\Clock\Clock\obj\Debug\Clock.exe
 D:\Learn\Lap tring C#\Exercise C#\Clock\Clock\obj\Debug\Clock.pdb
+D:\Learn\Lap tring C#\Exercise C#\Exercise-C-\Clock\Clock\bin\Debug\Clock.exe.config
+D:\Learn\Lap tring C#\Exercise C#\Exercise-C-\Clock\Clock\bin\Debug\Clock.exe
+D:\Learn\Lap tring C#\Exercise C#\Exercise-C-\Clock\Clock\bin\Debug\Clock.pdb
+D:\Learn\Lap tring C#\Exercise C#\Exercise-C-\Clock\Clock\obj\Debug\Clock.csprojResolveAssemblyReference.cache
+D:\Learn\Lap tring C#\Exercise C#\Exercise-C-\Clock\Clock\obj\Debug\Clock.exe
+D:\Learn\Lap tring C#\Exercise C#\Exercise-C-\Clock\Clock\obj\Debug\Clock.pdb

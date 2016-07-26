@@ -7,3 +7,9 @@ c:\users\ngoxuanduong\documents\visual studio 2015\Projects\QLSV\QLSV\obj\Debug\
 D:\Learn\Lap tring C#\Exercise C#\C# chieu 7,cn\QLSV\QLSV\bin\Debug\QLSV.exe.config
 D:\Learn\Lap tring C#\Exercise C#\C# chieu 7,cn\QLSV\QLSV\obj\Debug\QLSV.exe
 D:\Learn\Lap tring C#\Exercise C#\C# chieu 7,cn\QLSV\QLSV\obj\Debug\QLSV.pdb
+D:\Learn\Lap tring C#\Exercise C#\Exercise-C-\C# chieu 7,cn\QLSV\QLSV\bin\Debug\QLSV.exe.config
+D:\Learn\Lap tring C#\Exercise C#\Exercise-C-\C# chieu 7,cn\QLSV\QLSV\obj\Debug\QLSV.exe
+D:\Learn\Lap tring C#\Exercise C#\Exercise-C-\C# chieu 7,cn\QLSV\QLSV\obj\Debug\QLSV.pdb
+D:\Learn\Lap tring C#\Exercise C#\Exercise-C-\C# chieu 7,cn\QLSV\QLSV\bin\Debug\QLSV.exe
+D:\Learn\Lap tring C#\Exercise C#\Exercise-C-\C# chieu 7,cn\QLSV\QLSV\bin\Debug\QLSV.pdb
+D:\Learn\Lap tring C#\Exercise C#\Exercise-C-\C# chieu 7,cn\QLSV\QLSV\obj\Debug\QLSV.csprojResolveAssemblyReference.cache
