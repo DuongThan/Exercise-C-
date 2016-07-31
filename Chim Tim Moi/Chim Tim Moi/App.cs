@@ -54,8 +54,8 @@ namespace Chim_Tim_Moi
                 Console.Write(" ");
                 Thread.Sleep(10);
 
-                rd1 = rand.Next(1, 100);
-                if (rd1 % 3 == 0)
+                rd1 = rand.Next(1, 10000);
+                if (rd1 %6 == 0)
                 {
                     rd = rand.Next(0, 5);
                 }

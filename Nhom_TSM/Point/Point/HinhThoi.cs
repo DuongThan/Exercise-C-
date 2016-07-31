@@ -53,5 +53,10 @@ namespace Point
         {
             Console.WriteLine("Day la lop hinh thoi");
         }
+
+        public void PaintThoi()
+        {
+
+        }
     }
 }

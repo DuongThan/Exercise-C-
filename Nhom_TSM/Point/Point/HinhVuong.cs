@@ -62,7 +62,7 @@ namespace Point
             {
                 for (j = minPoint.HoanhDo; j < maxPoint.HoanhDo; j++)
                 {
-                    Console.SetCursorPosition(j+10, i);
+                   // Console.SetCursorPosition(j+10, i);
                     Console.Write("*");
                 }
                 Console.WriteLine();

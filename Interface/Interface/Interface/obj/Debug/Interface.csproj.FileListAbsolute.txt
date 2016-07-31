@@ -3,3 +3,6 @@ D:\Learn\Lap tring C#\Exercise C#\Interface\Interface\Interface\bin\Debug\Interf
 D:\Learn\Lap tring C#\Exercise C#\Interface\Interface\Interface\bin\Debug\Interface.pdb
 D:\Learn\Lap tring C#\Exercise C#\Interface\Interface\Interface\obj\Debug\Interface.exe
 D:\Learn\Lap tring C#\Exercise C#\Interface\Interface\Interface\obj\Debug\Interface.pdb
+D:\Learn\Lap tring C#\Exercise C#\Exercise-C-\Interface\Interface\Interface\bin\Debug\Interface.exe.config
+D:\Learn\Lap tring C#\Exercise C#\Exercise-C-\Interface\Interface\Interface\obj\Debug\Interface.exe
+D:\Learn\Lap tring C#\Exercise C#\Exercise-C-\Interface\Interface\Interface\obj\Debug\Interface.pdb
