@@ -14,10 +14,14 @@ namespace ListView_Chon_Mon_An
     public partial class Form2 : Form
     {
         private int user_;
+        private List<ListViewItem> list_ListViewItem;
+        private List<ListViewItem> list_ListMonChon;
         public Form2(int user)
         {
             InitializeComponent();
             user_ = user;
+            list_ListViewItem = new List<ListViewItem>();
+            list_ListMonChon = new List<ListViewItem>();
         }
 
         public void LoadBT()
@@ -81,16 +85,16 @@ namespace ListView_Chon_Mon_An
             this.Hide();
         }
 
-        public void LoadMonAn()
+        private void OpenFile()
         {
-            livdsmon.Items.Clear();
+            list_ListViewItem.Clear();
             ListViewItem item;
             StreamReader read = new StreamReader("a.txt");
             string tenMonAn = null;
             int soLuong = 0;
             float gia = 0;
             string monAn = null;
-            while(!read.EndOfStream)
+            while (!read.EndOfStream)
             {
                 item = new ListViewItem();
                 monAn = read.ReadLine();
@@ -101,15 +105,56 @@ namespace ListView_Chon_Mon_An
                 item.Text = tenMonAn;
                 item.SubItems.Add(new ListViewItem.ListViewSubItem() { Text = gia.ToString() });
                 item.SubItems.Add(new ListViewItem.ListViewSubItem() { Text = soLuong.ToString() });
-                livdsmon.Items.Add(item);
+                //livdsmon.Items.Add(item);
+                list_ListViewItem.Add(item);
             }
             read.Close();
+        }
+
+        public void LoadMonAn()
+        {
+            livdsmon.Items.Clear();
+            OpenFile();
+            foreach (var temp in list_ListViewItem)
+            {
+                livdsmon.Items.Add(temp);
+            }
+        }
+
+        public void LoadMonChon()
+        {
+            livMonduocchon.Items.Clear();
+            foreach(var item in list_ListMonChon)
+            {
+                ListViewItem it = new ListViewItem();
+                it.Text = item.SubItems[0].Text;
+                it.SubItems.Add(item.SubItems[1]);
+                it.SubItems.Add(item.SubItems[2]);
+                it.SubItems.Add(new ListViewItem.ListViewSubItem() { Text =( int.Parse(item.SubItems[1].Text) * float.Parse(item.SubItems[1].Text)).ToString() });
+                livMonduocchon.Items.Add(it);
+            }
         }
 
         private void F3_FormClosed(object sender, FormClosedEventArgs e)
         {
             this.Show();
             LoadMonAn();
+            LoadMonChon();
+        }
+
+        private void livdsmon_DoubleClick(object sender, EventArgs e)
+        {
+            if (livdsmon.Items.Count > 0)
+            {
+                try
+                {
+                    //MessageBox.Show(livdsmon.SelectedIndices[0].ToString());
+                    //MessageBox.Show(livdsmon.SelectedItems[0].SubItems[2].Text.ToString());
+                    list_ListMonChon.Add(list_ListViewItem[livdsmon.SelectedIndices[0]]);
+                }
+                catch { }
+            }
+            LoadMonChon();
         }
     }
 }

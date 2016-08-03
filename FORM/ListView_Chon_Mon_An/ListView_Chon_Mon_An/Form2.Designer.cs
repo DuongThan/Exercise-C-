@@ -47,6 +47,7 @@
             this.livdsmon.Size = new System.Drawing.Size(271, 381);
             this.livdsmon.TabIndex = 0;
             this.livdsmon.UseCompatibleStateImageBehavior = false;
+            this.livdsmon.DoubleClick += new System.EventHandler(this.livdsmon_DoubleClick);
             // 
             // livMonduocchon
             // 
