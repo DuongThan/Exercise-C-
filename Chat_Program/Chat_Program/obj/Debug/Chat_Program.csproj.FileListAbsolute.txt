@@ -1,1 +1,2 @@
 D:\Learn\Lap tring C#\Exercise C#\Chat_Program\Chat_Program\bin\Debug\Chat_Program.exe.config
+D:\Learn\Lap tring C#\Exercise C#\Exercise-C-\Chat_Program\Chat_Program\bin\Debug\Chat_Program.exe.config

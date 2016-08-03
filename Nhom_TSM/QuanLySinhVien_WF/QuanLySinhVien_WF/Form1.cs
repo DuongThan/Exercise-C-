@@ -19,26 +19,31 @@ namespace QuanLySinhVien_WF
         
         private bool them = true;
         private QuanLy quanly = new QuanLy();
+        ConnectData con = new ConnectData();
 
         private void LoadData()
         {
-            SinhVien sv = new SinhVien();
-            dgvDssv.Rows.Clear();
-            for (int i = 0; i < quanly.List_SinhVien.Count(); i++)
-            {
-                sv = quanly.List_SinhVien[i];
-                dgvDssv.Rows.Add("" + sv.MaSV + " ", "" + sv.HoTen + " ", "" + sv.Khoa + " ", "" + sv.Lop + " ", "" + sv.GioiTinh + " ", "" + sv.NgaySinh + " ", "" + sv.Email + " ", "" + sv.DiaChi + " ", "" + sv.SoDT + " ", "" + sv.DiemTB + " ", "" + sv.ThanhTich + " ", "" + sv.GhiChu + " ");
-            }
+            //SinhVien sv = new SinhVien();
+            //dgvDssv.Rows.Clear();
+            //for (int i = 0; i < quanly.List_SinhVien.Count(); i++)
+            //{
+            //    sv = quanly.List_SinhVien[i];
+            //    dgvDssv.Rows.Add("" + sv.MaSV + " ", "" + sv.HoTen + " ", "" + sv.Khoa + " ", "" + sv.Lop + " ", "" + sv.GioiTinh + " ", "" + sv.NgaySinh + " ", "" + sv.Email + " ", "" + sv.DiaChi + " ", "" + sv.SoDT + " ", "" + sv.DiemTB + " ", "" + sv.ThanhTich + " ", "" + sv.GhiChu + " ");
+            //}
+            DataTable dt = con.GetTable("select * from SinhVien");
+            dgvDssv.DataSource = dt;
         }
 
         public void SetNull()
         {
             txtma1.Text = "";
-            txthoten1.Text = "";
             txtma2.Text = "";
+            txthoten1.Text = "";
             txthoten2.Text = "";
             cmbKhoa.Text = "";
-            cmbLop.Text = "";
+            cmbKhoasv.Text = "";
+            comblop1.Text = "";
+            combLop2.Text = "";
             radnam.Checked = true;
             radnam1.Checked = true;
             datpDate.Text = "";
@@ -55,6 +60,7 @@ namespace QuanLySinhVien_WF
         {
             btnLuu.Enabled = false;
             btnXoa.Enabled = false;
+            LoadData();
         }
 
         private void label17_Click(object sender, EventArgs e)
@@ -140,7 +146,7 @@ namespace QuanLySinhVien_WF
                 sv.MaSV = txtma2.Text;
                 sv.HoTen = txthoten2.Text;
                 sv.Khoa = cmbKhoasv.Text;
-                sv.Lop = cmbLop.Text;
+                sv.Lop = combLop2.Text;
                 if (radnam.Checked == true)
                 {
                     sv.GioiTinh = "Nam";
@@ -154,15 +160,16 @@ namespace QuanLySinhVien_WF
                 sv.SoDT = int.Parse(txtsdt2.Text);
                 sv.GhiChu = txtghichu2.Text;
 
-                quanly.Add(sv);
+                // quanly.Add(sv);
+                quanly.ThemMoi(sv);
             }
             else
             {
                 sv = new SinhVien();
                 sv.MaSV = txtma2.Text;
                 sv.HoTen = txthoten2.Text;
-                sv.Khoa = cmbKhoa.Text;
-                sv.Lop = cmbLop.Text;
+                sv.Khoa = cmbKhoasv.Text;
+                sv.Lop = combLop2.Text;
                 if (radnam.Checked == true)
                 {
                     sv.GioiTinh = "Nam";
@@ -176,7 +183,8 @@ namespace QuanLySinhVien_WF
                 sv.GhiChu = txtghichu2.Text;
                 sv.SoDT = int.Parse(txtsdt2.Text);
 
-                quanly.List_SinhVien[quanly.Search(txtma2.Text)] = sv;
+                //quanly.List_SinhVien[quanly.Search(txtma2.Text)] = sv;
+                quanly.Sua(sv);
             }
             SetNull();
             LoadData();
@@ -185,7 +193,8 @@ namespace QuanLySinhVien_WF
 
         private void btnXoa_Click(object sender, EventArgs e)
         {
-            quanly.Remove(quanly.List_SinhVien[quanly.Search(txtma2.Text)]);
+            //quanly.Remove(quanly.List_SinhVien[quanly.Search(txtma2.Text)]);
+            quanly.Delete(txtma2.Text);
             LoadData();
         }
 
@@ -203,6 +212,44 @@ namespace QuanLySinhVien_WF
 
         private void opnfd_FileOk(object sender, CancelEventArgs e)
         {
+
+        }
+
+        private void dgvDssv_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+            int row = e.RowIndex;
+            txtma1.Text = dgvDssv.Rows[row].Cells[0].Value.ToString();
+            txtma2.Text = dgvDssv.Rows[row].Cells[0].Value.ToString();
+
+            txthoten1.Text = dgvDssv.Rows[row].Cells[1].Value.ToString();
+            txthoten2.Text = dgvDssv.Rows[row].Cells[1].Value.ToString();
+
+            cmkhoa1.Text = dgvDssv.Rows[row].Cells[2].Value.ToString();
+            cmbKhoasv.Text = dgvDssv.Rows[row].Cells[2].Value.ToString();
+
+            comblop1.Text = dgvDssv.Rows[row].Cells[3].Value.ToString();
+            combLop2.Text = dgvDssv.Rows[row].Cells[3].Value.ToString();
+
+            txtdiemtb1.Text = dgvDssv.Rows[row].Cells[11].Value.ToString();
+            txtdiemtb2.Text = dgvDssv.Rows[row].Cells[11].Value.ToString();
+
+            if (dgvDssv.Rows[row].Cells[4].Value.ToString() == "Nam")
+            {
+                radnam.Checked = true;
+                radnam1.Checked = true;
+            }
+            else
+            {
+                radnu.Checked = true;
+                radnu1.Checked = true;
+            }
+
+            datpDate.Text = dgvDssv.Rows[row].Cells[9].Value.ToString();
+            txtmail2.Text = dgvDssv.Rows[row].Cells[5].Value.ToString();
+            txtdiachi2.Text = dgvDssv.Rows[row].Cells[6].Value.ToString();
+            txtsdt2.Text = dgvDssv.Rows[row].Cells[10].Value.ToString();
+            txtthanhtich.Text = dgvDssv.Rows[row].Cells[8].Value.ToString();
+            txtghichu2.Text = dgvDssv.Rows[row].Cells[7].Value.ToString();
 
         }
 
